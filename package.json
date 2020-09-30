@@ -15,14 +15,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/PNKBizz/vue-yandex-map.git"
+    "url": "https://github.com/codenism/vue-yandex-map.git"
   },
   "keywords": [
     "yandex-maps",
     "maps",
     "vue"
   ],
-  "author": "bizz.gc@gmail.com",
+  "author": "denmrsh@gmail.com",
   "license": "MIT",
   "devDependencies": {
     "@babel/cli": "^7.2.3",
